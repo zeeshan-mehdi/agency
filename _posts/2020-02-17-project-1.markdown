@@ -9,7 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: Web Design
 description: Ecommerce Webstore was a project for one of our client who was required a simple ecommerce store where he can list product and sell them. 
 Project consists of an admin panel and User a side where a normal user can interact with the website and buy whatever they want to buy. On the admin side admin can manage all of the products he has. Add products , manage stock , create deals, manage them.
 
